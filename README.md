@@ -1,0 +1,2 @@
+# rwa-react-core
+The project objective is to learn the concepts and recommendations provided by pure react library from reactjs.org. Many a time, we use external JS libraries whereas the solution is available in the React core itself (e.g. using Redux for component state).   The more we use core React, the more our projects would be simpler and robust also. It would also force us to "Think in React"   This project would also act as a reference for using or discussing any react concept. 
